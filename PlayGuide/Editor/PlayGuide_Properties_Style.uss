@@ -1,0 +1,201 @@
+.name-label {
+    margin-left: 10px;
+    margin-right: 60px;
+    -unity-font-style: bold;
+    font-size: 12px;
+    color: white;
+}
+
+.nameTextField-textField {
+    flex: 0.9;
+}
+
+.nameChangeButton-button {
+    -unity-font-style: bold;
+    font-size: 12px;
+    color: white;
+}
+
+.current-objectField {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+
+.currentObjectField-label {
+    margin-right: 20px;
+    -unity-font-style: bold;
+    font-size: 12px;
+    color: white;
+}
+
+.title-label {
+    margin-top: 10px;
+    -unity-font-style: bold;
+    -unity-text-align: middle-center;
+    font-size: 15px;
+
+    border-top-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-color: dimgrey;
+}
+
+.YESNO-button {
+    min-height: 50px;
+    min-width: 100px;
+
+    -unity-font-style: bold;
+    -unity-text-align: middle-center;
+    color: white;
+}
+
+.loadFile-button {
+    min-width: 150px;
+    min-height: 40px;
+    margin-right: 50px;
+
+    -unity-font-style: bold;
+    font-size: 20px;
+    color: yellow;
+}
+
+.saveFile-button {
+    min-width: 150px;
+    min-height: 40px;
+    margin-left: 50px;
+
+    -unity-font-style: bold;
+    font-size: 20px;
+    color: greenyellow;
+}
+
+.stepAddButton-button {
+    min-width: 150px;
+    min-height: 60px;
+    margin-right: 50px;
+
+    -unity-font-style: bold;
+    font-size: 20px;
+    color: white;
+}
+
+.stepRemoveButton-button {
+    min-width: 150px;
+    min-height: 60px;
+    margin-left: 50px;
+
+    -unity-font-style: bold;
+    font-size: 20px;
+    color: orangered;
+}
+
+.horizontal-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
+
+.horizontalDontArrange-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    flex-direction: row;
+}
+
+.playGuideParentStep-templateContainer {
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-grow: 1;
+    min-height: 400px;
+    max-height: 400px;
+
+    border-color: dimgrey;
+    border-width: 3px;
+}
+
+.playGuideStepList-templateContainer {
+    justify-content: flex-start;
+    flex-direction: column;
+    flex: 30%;
+    flex-grow: 1;
+    min-height: 400px;
+    max-height: 400px;
+
+    border-right-width: 3px;
+    border-color: dimgrey;
+}
+
+.playGuideStepButton-button {
+    min-width: 100px;
+    font-size: 20px;
+    -unity-font-style: bold;
+    color: white;
+}
+
+.playGuideStepCleanButton-button {
+    align-content: center;
+    justify-content: center;
+    -unity-font-style: bold;
+    
+    margin-bottom: 5px;
+    margin-top: 5px;
+    min-height: 20px;
+}
+
+.playGuideStepButton-templateContainer {
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.playGuideStepParentButton-templateContainer {
+    margin-bottom: 20px;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+.playGuideStepName-listview {
+    flex: 40%;
+    
+    border-bottom-color: dimgrey;
+    border-width: 3px;
+}
+
+.playGuideStepName-label {
+    font-size: 15px;
+    -unity-font-style: bold;
+    align-content: auto;
+    -unity-text-align: middle-center;
+}
+
+.playGuideStepDetail-scrollview {
+    flex: 70%;
+    min-height: 400px;
+    max-height: 400px;
+}
+
+.addPlayGuideStepListView-listView {
+    min-height: 300px;
+    min-width: 300px;
+    margin-top: 10px;
+    border-width: 3px;
+    border-color: dimgrey;
+}
+
+.addPlayGuideStep-label{
+    flex-direction: row;
+    -unity-font-style: bold;
+    
+    min-height: 20px;
+    max-height: 20px;
+    font-size: 15px;
+}
+
+.checkButton-button{
+    
+}
