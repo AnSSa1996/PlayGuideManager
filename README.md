@@ -26,20 +26,11 @@ https://github.com/user-attachments/assets/7eed5f0a-d4fe-4cb5-b8b4-45bf6e3f4265
 
 # 사용 방법
 
-- 기본적으로 ResourceManager 셋팅하셔야합니다.
+1. PlayGuideStep을 상속받은 스텝 제작.
 
-![image](https://github.com/user-attachments/assets/1308be0b-fce7-445d-9ac1-703fe8697a10)
+![image](https://github.com/user-attachments/assets/238811b2-a81a-49eb-824a-4c00627bf72e)
 
 
-1. @UIManager 프리팹을 첫 씬에 배치합니다. (프로젝트가 처음 시작되는 StartScene)
+2. PlayGuideEditor를 통해 플레이가이드 셋팅하기
 
-![image](https://github.com/user-attachments/assets/36db1402-3c08-4477-864b-bc88420190ed)
-
-2. MainCamera UICamera 셋팅하기.
-
-![image](https://github.com/user-attachments/assets/0e3fb2f5-952b-46d3-894d-ee5d15213b82)
-
-3. UI Scripts 및 UI Prefab 작성하기.
-
-![image](https://github.com/user-attachments/assets/8bb84f8e-6743-439a-b777-77c84344d27d)
-![image](https://github.com/user-attachments/assets/2f7029ff-ab04-44a9-95d9-e70600c7e8b6)
+![image](https://github.com/user-attachments/assets/d504eaf6-eaa7-4c28-bfcf-25f55d43e034)
