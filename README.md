@@ -27,14 +27,17 @@ https://github.com/user-attachments/assets/7eed5f0a-d4fe-4cb5-b8b4-45bf6e3f4265
 # 사용 방법
 
 1. PlayGuideStep을 상속받은 스텝 제작.
+
 ![image](https://github.com/user-attachments/assets/238811b2-a81a-49eb-824a-4c00627bf72e)
 
-2. PlayGuide_ScriptableObject 셋팅.
+3. PlayGuide_ScriptableObject 셋팅.
+
 ![image](https://github.com/user-attachments/assets/dc047f03-4702-487a-b67b-e577f3fe8bc3)
 ![image](https://github.com/user-attachments/assets/f4e6f62c-cfdf-4046-b3a4-747dc9de3fd0)
 
 
 
-3. PlayGuideEditor를 통해 플레이가이드 셋팅하기
+4. PlayGuideEditor를 통해 플레이가이드 셋팅하기
+
 ![image](https://github.com/user-attachments/assets/7d02eb1a-f63d-4427-a8cd-017906b66593)
 ![image](https://github.com/user-attachments/assets/d504eaf6-eaa7-4c28-bfcf-25f55d43e034)
